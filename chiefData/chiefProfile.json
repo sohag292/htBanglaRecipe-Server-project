@@ -1,0 +1,48 @@
+[
+    {
+        "chef_id":"ch001",
+        "name": "Sanjeev Kapoor",
+        "experience": "Over 4 decades",
+        "recipes": 1000,
+        "likes": 50000,
+        "image": "https://i.imgur.com/WOkJRsJ.jpg"
+    },
+    {
+        "chef_id":"ch002",
+        "name": "Vikas Khanna",
+        "experience": "Over 2 decades",
+        "recipes": 500,
+        "likes": 25000,
+        "image": "https://i.imgur.com/f1DhLca.jpg"
+    },
+    {
+        "chef_id":"ch003",
+        "name": "Ranveer Brar",
+        "experience": "Over 2 decades",
+        "recipes": 300,
+        "likes": 20000,
+        "image": "https://i.imgur.com/3QHL6OD.jpg"
+    },
+    {   "chef_id":"ch004",
+        "name": "Tarla Dalal",
+        "experience": "Over 5 decades",
+        "recipes": 1500,
+        "likes": 75000,
+        "image": "https://i.imgur.com/7a0OTJi.jpg"
+    },
+    {   "chef_id":"ch005",
+        "name": "Madhur Jaffrey",
+        "experience": "Over 6 decades",
+        "recipes": 800,
+        "likes": 30000,
+        "image": "https://i.imgur.com/wbJAd8v.jpg"
+    },
+    {
+        "chef_id":"ch006",
+        "name": "Hari Nayak",
+        "experience": "Over 2 decades",
+        "recipes": 200,
+        "likes": 10000,
+        "image": "https://i.imgur.com/rvHkVX9.jpg"
+    }
+]
