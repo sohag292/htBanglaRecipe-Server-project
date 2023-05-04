@@ -2,47 +2,50 @@
     {
         "chef_id":"ch001",
         "name": "Sanjeev Kapoor",
-        "experience": "Over 4 decades",
-        "recipes": 1000,
-        "likes": 50000,
-        "image": "https://i.imgur.com/WOkJRsJ.jpg"
+        "experience": " 4 years Experience",
+        "recipes": ["Miso Chicken","Salami sandwich","Tomato Chicken"],
+        "likes": "5.4k",
+        "image": "https://i.ibb.co/0Zfbn9g/HOW-CHEF-SANJEEV-KAPOOR-SAVED-INDIAN-MARRIAGES-1.jpg"
     },
     {
         "chef_id":"ch002",
         "name": "Vikas Khanna",
-        "experience": "Over 2 decades",
-        "recipes": 500,
-        "likes": 25000,
-        "image": "https://i.imgur.com/f1DhLca.jpg"
+        "experience": "2 years Experience",
+        "recipes": ["shahi paneer","Chicken Tikka","Mango Yogurt"],
+        "likes": "2.5k",
+        "image": "https://i.ibb.co/CPycb94/E-kx-ya-WQAALm-XT-1.jpg"
     },
     {
         "chef_id":"ch003",
         "name": "Ranveer Brar",
-        "experience": "Over 2 decades",
-        "recipes": 300,
-        "likes": 20000,
-        "image": "https://i.imgur.com/3QHL6OD.jpg"
+        "experience": "6 years Experience",
+        "recipes": ["Mutton Kofta","Raj Kachari","Malpua"],
+        "likes": "2.8k",
+        "image": "https://i.ibb.co/2FJ4P7h/img-114119-ranveerbrar-s-1.jpg"
     },
     {   "chef_id":"ch004",
         "name": "Tarla Dalal",
-        "experience": "Over 5 decades",
-        "recipes": 1500,
-        "likes": 75000,
-        "image": "https://i.imgur.com/7a0OTJi.jpg"
+        "experience": "5 years Experience",
+        "recipes": ["Shishi Tawook","Kibbeh Nayyeh","Tabbouleh Salad"],
+        "likes": "7.65k",
+        "image": "https://i.ibb.co/d6XTrTC/download-1.jpg"
     },
     {   "chef_id":"ch005",
         "name": "Madhur Jaffrey",
-        "experience": "Over 6 decades",
-        "recipes": 800,
-        "likes": 30000,
-        "image": "https://i.imgur.com/wbJAd8v.jpg"
+        "experience": "4 years Experience",
+        "recipes": ["Salami sandwich","Tomato Chicken","Mango Yogurt"],
+        "likes": "9.5k",
+        "image": "https://i.ibb.co/XzjS9RT/x360-1.jpg"
     },
     {
         "chef_id":"ch006",
         "name": "Hari Nayak",
-        "experience": "Over 2 decades",
-        "recipes": 200,
-        "likes": 10000,
-        "image": "https://i.imgur.com/rvHkVX9.jpg"
+        "experience": "3 years Experience",
+        "recipes": ["Chicken Tikka","Mango Yogurt","Masala"],
+        "likes": "12.4k",
+        "image": "https://i.ibb.co/z8CSXKg/Hari-Nayak-1.jpg"
     }
 ]
+
+
+
