@@ -23,10 +23,9 @@ app.get('/chiefdetails', (req, res) => {
 app.get('/chiefdetails/:id', (req, res) => {
     const id = req.params.id;
     console.log(id);
-    const chiefData = require('./chiefData/chiefDetails.json')
     const selectedChifRecpies = chiefData.find(chefRecpie => chefRecpie.chef_id == id);
     res.send(selectedChifRecpies)
-   
+    console.log(selectedChifRecpies);
 })
 
 
